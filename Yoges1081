@@ -1,0 +1,16 @@
+#yoges1081
+
+
+echo "# yoges1081" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/yoges1081/yoges1081.git
+
+git push -u origin main
